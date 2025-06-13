@@ -1,37 +1,23 @@
 {
-  "ConfigVersion": "1.0.0",
-  "ReleaseNotes": [
-    {
-      "version": "1.0.0",
-      "date": "2025-06-13",
-      "changes": [
-        "Initial release of the word list configuration.",
-        "Added words for Default, Science, Mathematics, Bible, and Law categories.",
-        "Introduced ConfigVersion and ReleaseNotes for version tracking."
-      ]
-    }
-  ],
-  "Default": [
-    {"word": "APPLE", "clue": "A fruit that keeps the doctor away"},
-    {"word": "HOUSE", "clue": "A place where people live"},
-    {"word": "TABLE", "clue": "You eat meals on this"},
-    {"word": "CHAIR", "clue": "You sit on it"},
-    {"word": "PENCIL", "clue": "Used for writing and drawing"}
-  ],
-  "Science": [
-    {"word": "HURRICANE", "clue": "A strong storm with heavy wind"},
-    {"word": "OCEAN", "clue": "Vast body of salt water covering most of Earth"} 
-  ],
-  "Mathematics": [
-    {"word": "ALGEBRA", "clue": "A branch of mathematics dealing with symbols and rules for manipulating them"},
-    {"word": "CALCULUS", "clue": "A field of mathematics concerned with limits, functions, derivatives, and integrals"} 
-  ],
   "Bible": [
     {"word": "GENESIS", "clue": "The first book of the Bible"},
-    {"word": "EXODUS", "clue": "The book describing the Israelites' escape from Egypt"}
+    {"word": "EXODUS", "clue": "The book describing the Israelites' escape from Egypt"},
+    ...
   ],
   "Law": [
     {"word": "CONTRACT", "clue": "A legally binding agreement between two or more parties"},
-    {"word": "TORT", "clue": "A civil wrong that causes harm or loss and can lead to legal liability"} 
+    ...
+  ],
+  "Science": [
+    {"word": "HURRICANE", "clue": "A strong storm with heavy wind"},
+    ...
+  ],
+  "Mathematics": [
+    {"word": "ALGEBRA", "clue": "A branch of mathematics dealing with symbols and rules for manipulating them"},
+    ...
+  ],
+  "Default": [
+    {"word": "APPLE", "clue": "A fruit that keeps the doctor away"},
+    ...
   ]
 }
