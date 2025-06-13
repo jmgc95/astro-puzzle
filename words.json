@@ -2,15 +2,12 @@
   "Bible": [
     {"word": "GENESIS", "clue": "The first book of the Bible"},
     {"word": "EXODUS", "clue": "The book describing the Israelites' escape from Egypt"},
-    ...
   ],
   "Law": [
     {"word": "CONTRACT", "clue": "A legally binding agreement between two or more parties"},
-    ...
   ],
   "Science": [
     {"word": "HURRICANE", "clue": "A strong storm with heavy wind"},
-    ...
   ],
   "Mathematics": [
     {"word": "ALGEBRA", "clue": "A branch of mathematics dealing with symbols and rules for manipulating them"},
@@ -18,6 +15,5 @@
   ],
   "Default": [
     {"word": "APPLE", "clue": "A fruit that keeps the doctor away"},
-    ...
   ]
 }
